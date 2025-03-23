@@ -1,7 +1,5 @@
-name: namer_app
-description: A new Flutter project.
-
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+name: ride_mate
+description: Flutter app for Carpool business with capability of executing both iOS and Android.
 
 version: 0.0.1+1
 
@@ -23,3 +21,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - 
+  - 
